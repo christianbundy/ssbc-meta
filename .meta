@@ -35,16 +35,15 @@
     "ssb-names": "git@github.com:ssbc/ssb-names.git",
     "ssb-private": "git@github.com:ssbc/ssb-private.git",
     "ssb-query": "git@github.com:ssbc/ssb-query.git",
-    "ssb-reduce-stream": "git@github.com:ssbc/ssb-reduce-stream.git",
     "ssb-ref": "git@github.com:ssbc/ssb-ref.git",
     "ssb-search": "git@github.com:ssbc/ssb-search.git",
     "ssb-secret-blob": "git@github.com:ssbc/ssb-secret-blob.git",
     "ssb-serve-blobs": "git@github.com:ssbc/ssb-serve-blobs.git",
     "ssb-sort": "git@github.com:ssbc/ssb-sort.git",
-    "ssb-status": "git@github.com:ssbc/ssb-status.git",
-    "ssb-thread": "git@github.com:ssbc/ssb-thread.git",
     "ssb-validate": "git@github.com:ssbc/ssb-validate.git",
     "ssb-viewer": "git@github.com:ssbc/ssb-viewer.git",
-    "ssb-ws": "git@github.com:ssbc/ssb-ws.git"
+    "ssb-ws": "git@github.com:ssbc/ssb-ws.git",
+    "patchwork": "git@github.com:ssbc/patchwork.git",
+    "patchbay": "git@github.com:ssbc/patchbay.git"
   }
 }

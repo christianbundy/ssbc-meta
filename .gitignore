@@ -33,14 +33,14 @@ ssb-msg-schemas
 ssb-names
 ssb-private
 ssb-query
-ssb-reduce-stream
 ssb-ref
 ssb-search
 ssb-secret-blob
 ssb-serve-blobs
 ssb-sort
-ssb-status
-ssb-thread
 ssb-validate
 ssb-viewer
 ssb-ws
+patchwork patchbay
+patchwork
+patchbay
