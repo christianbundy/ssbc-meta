@@ -20,13 +20,10 @@ ssb-contacts
 ssb-ebt
 ssb-feed
 ssb-friends
-ssb-generate
 ssb-identities
-ssb-irc
 ssb-keys
 ssb-links
 ssb-markdown
-ssb-marked
 ssb-mentions
 ssb-msgs
 ssb-msg-schemas
