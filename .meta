@@ -117,6 +117,18 @@
     "ssb-incoming-guard": "git@github.com:ssbc/ssb-incoming-guard.git",
     "ssb-integration-tests": "git@github.com:ssbc/ssb-integration-tests.git",
     "ssb-invite-schema": "git@github.com:ssbc/ssb-invite-schema.git",
-    "ssbui": "https://github.com/ssbc/ssbui"
+    "ssbui": "git@github.com:ssbc/ssbui.git",
+    "ssb-manifest": "git@github.com:ssbc/ssb-manifest.git",
+    "ssb-testnet": "git@github.com:ssbc/ssb-testnet.git",
+    "ssb-simple-whois": "git@github.com:ssbc/ssb-simple-whois.git",
+    "ssbc-org": "git@github.com:ssbc/ssbc-org.git",
+    "ssbc-sitegen": "git@github.com:ssbc/ssbc-sitegen.git",
+    "ssbc.github.io": "git@github.com:ssbc/ssbc.github.io.git",
+    "stories": "git@github.com:ssbc/stories.git",
+    "ssb-notifier": "git@github.com:ssbc/ssb-notifier.git",
+    "ssb-usage-stats": "git@github.com:ssbc/ssb-usage-stats.git",
+    "ssb-web-server": "git@github.com:ssbc/ssb-web-server.git",
+    "ssbc-owners": "git@github.com:ssbc/ssbc-owners.git",
+    "ssb-same-as": "git@github.com:ssbc/ssb-same-as.git"
   }
 }
