@@ -5,7 +5,6 @@
     "muxrpc": "git@github.com:ssbc/muxrpc.git",
     "packet-stream": "git@github.com:ssbc/packet-stream.git",
     "react-native-scuttlebot": "git@github.com:ssbc/react-native-scuttlebot.git",
-    "react-native-ssb-client": "git@github.com:ssbc/react-native-ssb-client.git",
     "react-native-ssb-client-keys": "git@github.com:ssbc/react-native-ssb-client-keys.git",
     "react-native-ssb-shims": "git@github.com:ssbc/react-native-ssb-shims.git",
     "scuttlebot": "git@github.com:ssbc/scuttlebot.git",
