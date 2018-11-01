@@ -129,6 +129,24 @@
     "ssb-usage-stats": "git@github.com:ssbc/ssb-usage-stats.git",
     "ssb-web-server": "git@github.com:ssbc/ssb-web-server.git",
     "ssbc-owners": "git@github.com:ssbc/ssbc-owners.git",
-    "ssb-same-as": "git@github.com:ssbc/ssb-same-as.git"
+    "ssb-same-as": "git@github.com:ssbc/ssb-same-as.git",
+    "ssb-server-channel": "git@github.com:ssbc/ssb-server-channel.git",
+    "ssbc-rituals": "git@github.com:ssbc/ssbc-rituals.git",
+    "ssb-typescript": "git@github.com:ssbc/ssb-typescript.git",
+    "ssb-rpc-rs": "git@github.com:ssbc/ssb-rpc-rs.git",
+    "ssb-threads": "git@github.com:ssbc/ssb-threads.git",
+    "ssb-poll-schema": "git@github.com:ssbc/ssb-poll-schema.git",
+    "ssb-msg-content": "git@github.com:ssbc/ssb-msg-content.git",
+    "ssb-tunnel": "git@github.com:ssbc/ssb-tunnel.git",
+    "ssb-testing-guide": "git@github.com:ssbc/ssb-testing-guide.git",
+    "ssb-meme": "git@github.com:ssbc/ssb-meme.git",
+    "stack-diagram": "git@github.com:ssbc/stack-diagram.git",
+    "systrayhelper": "git@github.com:ssbc/systrayhelper.git",
+    "ssb-schema-definitions": "git@github.com:ssbc/ssb-schema-definitions.git",
+    "ssb-unread": "git@github.com:ssbc/ssb-unread.git",
+    "ssb-replication-limiter": "git@github.com:ssbc/ssb-replication-limiter.git",
+    "ssb-device-address": "git@github.com:ssbc/ssb-device-address.git",
+    "multiserver-scopes": "git@github.com:ssbc/multiserver-scopes.git",
+    "benchmark-ci-visualizer": "git@github.com:ssbc/benchmark-ci-visualizer.git"
   }
 }
