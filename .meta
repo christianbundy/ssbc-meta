@@ -116,6 +116,7 @@
     "ssb-http": "git@github.com:ssbc/ssb-http.git",
     "ssb-incoming-guard": "git@github.com:ssbc/ssb-incoming-guard.git",
     "ssb-integration-tests": "git@github.com:ssbc/ssb-integration-tests.git",
-    "ssb-invite-schema": "git@github.com:ssbc/ssb-invite-schema.git"
+    "ssb-invite-schema": "git@github.com:ssbc/ssb-invite-schema.git",
+    "ssbui": "https://github.com/ssbc/ssbui"
   }
 }
