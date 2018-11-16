@@ -147,6 +147,7 @@
     "ssb-replication-limiter": "git@github.com:ssbc/ssb-replication-limiter.git",
     "ssb-device-address": "git@github.com:ssbc/ssb-device-address.git",
     "multiserver-scopes": "git@github.com:ssbc/multiserver-scopes.git",
-    "benchmark-ci-visualizer": "git@github.com:ssbc/benchmark-ci-visualizer.git"
+    "benchmark-ci-visualizer": "git@github.com:ssbc/benchmark-ci-visualizer.git",
+    "modules.scuttlebutt.nz": "https://github.com/SSBC/modules.scuttlebutt.nz"
   }
 }
