@@ -10,7 +10,7 @@
     "scuttlebot": "git@github.com:ssbc/scuttlebot.git",
     "scuttlebot-release": "git@github.com:ssbc/scuttlebot-release.git",
     "secret-stack": "git@github.com:ssbc/secret-stack.git",
-    "secure-scuttlebutt": "git@github.com:ssbc/secure-scuttlebutt.git",
+    "ssb-db": "git@github.com:ssbc/ssb-db.git",
     "ssb-about": "git@github.com:ssbc/ssb-about.git",
     "ssb-avatar": "git@github.com:ssbc/ssb-avatar.git",
     "ssb-backlinks": "git@github.com:ssbc/ssb-backlinks.git",
