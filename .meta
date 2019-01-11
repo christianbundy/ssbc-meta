@@ -148,6 +148,19 @@
     "ssb-device-address": "git@github.com:ssbc/ssb-device-address.git",
     "multiserver-scopes": "git@github.com:ssbc/multiserver-scopes.git",
     "benchmark-ci-visualizer": "git@github.com:ssbc/benchmark-ci-visualizer.git",
-    "modules.scuttlebutt.nz": "https://github.com/SSBC/modules.scuttlebutt.nz"
+    "modules.scuttlebutt.nz": "git@github.com:ssbc/modules.scuttlebutt.nz.git",
+    "ssb-plugins2": "git@github.com:ssbc/ssb-plugins2.git",
+    "layered-graph": "git@github.com:ssbc/layered-graph.git",
+    "ssb-schema-validation": "git@github.com:ssbc/ssb-schema-validation.git",
+    "scuttle-thread": "git@github.com:ssbc/scuttle-thread.git",
+    "ephemeral-keys": "git@github.com:ssbc/ephemeral-keys.git",
+    "one.camp.scuttlebutt.nz": "git@github.com:ssbc/one.camp.scuttlebutt.nz.git",
+    "ssb-friend-pub": "git@github.com:ssbc/ssb-friend-pub.git",
+    "ssb-webexthost": "git@github.com:ssbc/ssb-webexthost.git",
+    "ssb-lists": "git@github.com:ssbc/ssb-lists.git",
+    "ssb-replicate": "git@github.com:ssbc/ssb-replicate.git",
+    ".github": "git@github.com:ssbc/.github.git",
+    "packet-stream-codec": "git@github.com:ssbc/packet-stream-codec.git",
+    "ssb-invite": "git@github.com:ssbc/ssb-invite.git"
   }
 }
