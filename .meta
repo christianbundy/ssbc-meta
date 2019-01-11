@@ -7,7 +7,7 @@
     "react-native-scuttlebot": "git@github.com:ssbc/react-native-scuttlebot.git",
     "react-native-ssb-client-keys": "git@github.com:ssbc/react-native-ssb-client-keys.git",
     "react-native-ssb-shims": "git@github.com:ssbc/react-native-ssb-shims.git",
-    "scuttlebot": "git@github.com:ssbc/scuttlebot.git",
+    "ssb-server": "git@github.com:ssbc/ssb-server.git",
     "scuttlebot-release": "git@github.com:ssbc/scuttlebot-release.git",
     "secret-stack": "git@github.com:ssbc/secret-stack.git",
     "ssb-db": "git@github.com:ssbc/ssb-db.git",

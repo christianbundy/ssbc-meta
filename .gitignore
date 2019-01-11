@@ -5,7 +5,7 @@ packet-stream
 react-native-scuttlebot
 react-native-ssb-client-keys
 react-native-ssb-shims
-scuttlebot
+ssb-server
 scuttlebot-release
 secret-stack
 ssb-db
